@@ -1,0 +1,13 @@
+body {
+    background-image:url(imagenes/bk.jpg);
+    color: deeppink;
+}
+.iniciosesion {
+    text-align: justify;
+    line-height: 2em;
+}
+.usb{
+    text-align: justify;
+    line-height: 2em;
+
+}
